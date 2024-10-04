@@ -1,0 +1,1 @@
+D:\MyLearns\GIT\Design_Patterns\State_Method_Design_Pattern\State_Method_Design_Pattern\State_Method_Design_Pattern\State_Method_Design_Pattern\obj\Debug\State_Method_Design_Pattern.csproj.CoreCompileInputs.cache
